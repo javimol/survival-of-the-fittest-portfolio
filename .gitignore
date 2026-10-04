@@ -1,0 +1,13 @@
+# MATLAB
+*.asv
+*.mat
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+
+# Local output of scripts/mutation_experiment.py
+docs/img/mutation_experiment.png
