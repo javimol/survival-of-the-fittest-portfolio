@@ -1,0 +1,3 @@
+The MIT license in LICENSE does not cover the data in data/orlib/, which
+are the OR-Library portfolio benchmark instances by J. E. Beasley and keep
+their original terms, or the stock price data in data/madrid/.
