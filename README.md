@@ -177,3 +177,7 @@ The original code (2006-era MATLAB, written in Spanish) was refactored as follow
 - T.-J. Chang, N. Meade, J. E. Beasley, Y. M. Sharaiha, "Heuristics for cardinality constrained portfolio optimisation", *Computers & Operations Research* 27 (2000) 1271–1302.
 - A. Schaerf, "Local search techniques for constrained portfolio selection problems", *Computational Economics* 20 (2002) 177–190.
 - N. J. Radcliffe, "Forma analysis and random respectful recombination", *Proc. ICGA* (1991).
+
+## License
+
+[MIT](LICENSE), except the data in [`data/`](data/): the OR-Library benchmark instances in [`data/orlib/`](data/orlib/) keep J. E. Beasley's original terms, and the stock prices in [`data/madrid/`](data/madrid/) are not covered either. See [NOTICE](NOTICE).
