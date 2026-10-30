@@ -1,0 +1,3 @@
+# Language stats: this is a MATLAB project; the Python scripts are helpers
+*.m linguist-language=MATLAB
+scripts/*.py linguist-detectable=false
